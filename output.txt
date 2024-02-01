@@ -1,0 +1,3 @@
+Hello, this is a sample text.
+Writing to a file using Java I/O operations.
+End of the file.
